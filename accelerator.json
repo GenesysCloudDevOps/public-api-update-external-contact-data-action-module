@@ -6,11 +6,7 @@
     "type": "module",
     "classification": "External Contacts",
     "tags": ["External Contacts"],
-    "permissions": ["externalContacts:contact:edit"],
-    "products": [
-        "Collaborate Free",
-        "Contact and Contact Organization management"
-    ],
+    "permissions": ["externalContacts:contact:edit"],    
     "documentation": [],
     "presentation": [
         {
